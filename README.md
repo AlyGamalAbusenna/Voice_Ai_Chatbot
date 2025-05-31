@@ -43,4 +43,19 @@ See requirements.txt for exact versions. Key dependencies:
 3. **Chat Display**  
    - 💬 Conversation history (user/assistant turns)  
    - 🎧 Voice reply player (auto-generated per response)  
-   - 📱 Mobile-responsive design  
+   - 📱 Mobile-responsive design
+  
+## 📜 License & Compliance
+
+### GNU General Public License v3.0
+**Key License Terms:**
+- ✅ **Freedom to Use**: Run the software for any purpose
+- ✅ **Freedom to Study**: Access and modify the source code
+- ✅ **Freedom to Share**: Redistribute original or modified versions
+- ✅ **Copyleft**: Modified versions must remain under GPLv3
+
+**Your Obligations:**
+1. Include the original [LICENSE](LICENSE) file
+2. Disclose source code when distributing modified versions
+3. State significant changes made to the original
+4. Maintain copyright notices
